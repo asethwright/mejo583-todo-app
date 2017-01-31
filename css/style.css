@@ -1,0 +1,11 @@
+section {
+  margin-top: 30px;
+}
+
+[v-cloak] {
+  display: none;
+}
+
+.card {
+  margin-top: 10px;
+}
